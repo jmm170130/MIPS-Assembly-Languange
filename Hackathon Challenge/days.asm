@@ -3,7 +3,10 @@
 # Hackaton Challenge
 # Author: Juan Marquez
 # Created: 3-13-2019
-# CS 3340
+# This Program will display the number of days in a given month.
+# It will give the user 2 options for displaying data
+#	Option1: Print the month number and the number of days
+#	Option2: Print the 3-character month abbreviation and number of days
 ###########################
 .data
 month:			.word		0
